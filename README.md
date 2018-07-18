@@ -1,0 +1,2 @@
+# challenges
+self taught programmer
